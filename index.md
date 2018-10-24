@@ -35,6 +35,7 @@ Não é tolerado nenhum tipo de atividade desrespeitosa, anti-ética ou que indu
 ---
 
 > SE VOCÊ QUER SER UM CIBER CRIMINOSO, ESTUDE POR CONTA PRÓPRIA, POIS NESSE GRUPO NINGUEM VAI TE AJUDAR COM SEU "GRANDE PLANO"
+
 > Dan Morris, criador do grupo de estudos Hacking-BR
 
 ---
