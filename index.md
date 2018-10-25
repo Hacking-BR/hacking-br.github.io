@@ -2,6 +2,10 @@
 
 Nosso principal objetivo é o compartilhamento de conhecimento, dando oportunidade a qualquer pessoa bem intencionada a aprender a ciência da computação, engenharia de sistemas, segurança e tecnologia da informação.
 
+Todo conteúdo apresentado no grupo Hacking-BR - G.d.E deve ser previamente legítimo e ter na postagem o nome do autor, data de lançamento e plataforma que o conteúdo é disponibilizado. Tal que plágios e rompituras de propriedade intelectual são de responsabilidade do autor da postagem. 
+
+Pedimos para cada membro avaliar e compartilhar com sabedoria, sempre tendo em mente que nenhuma pessoa pode ser prejudicada pelos dados compartilhados
+
 Não é tolerado nenhum tipo de atividade desrespeitosa, anti-ética ou que induza ao crime, direta ou indiretamente.
 
 ## Regras do grupo
@@ -31,6 +35,8 @@ Não é tolerado nenhum tipo de atividade desrespeitosa, anti-ética ou que indu
 1. Não serão admitidos Lammers, Crackers, pessoas mal intencionadas ou que pretendam se valer do grupo para aprender a cometer crimes. Qualquer membro que seja descoberto em atitude suspeita será imediatamente banido.
 
 1. Os casos duvidosos ou excessões pertinentes serão discutidos com os administradores do grupo.
+
+
 
 ---
 
